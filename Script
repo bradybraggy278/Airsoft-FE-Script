@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bradybraggy278/Airsoft-FE-Script/refs/heads/main/README.md"))()
